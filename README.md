@@ -1,4 +1,4 @@
-- 👋 Oi, meu nome é João Otávio e sou um estudante de Sistemas de informação, prestes a terminar a graduação. Atualmente trabalho com Java desenvolvendo o backend de alguns sistemas. Gosto bastante de Angular e tenho interesse ema prender Flutter em um futuro próximo.
+- 👋 Oi, meu nome é João Otávio e sou um desenvolvedor de software buscando sempre um novo desafio e aprender novos conhecimentos.
 
 
 - 📫 https://www.linkedin.com/in/jõao-otávio-lima-felipelli-5688a4192/ 
