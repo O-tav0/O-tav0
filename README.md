@@ -1,6 +1,8 @@
 - 👋 Oi, meu nome é João Otávio e sou um desenvolvedor de software buscando sempre um novo desafio e aprender novos conhecimentos.
 
-- Atualmente estou estudando para adquirir a certificação 1Z0-811 da Oracle para o Java.
+- Dev Java, possuo a certificação Oracle 1Z0-811 para o Java e estou em busca da 1Z0-819 - OCP.
+
+- Recentemente passei a estudar e desenvolver minhas habilidades com Golang também.
 
 - 📫 https://www.linkedin.com/in/jõao-otávio-lima-felipelli-5688a4192/ 
 
